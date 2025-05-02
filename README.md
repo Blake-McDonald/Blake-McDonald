@@ -11,7 +11,7 @@ In the following sections, I will present a selection of IT Operations–focused
 <summary><strong>Windows Server 2022</strong></summary>
 
 - **[Creating a Windows Answer File for Automated Installation and Deployment on Windows Server 2022](https://github.com/Blake-McDonald/Proj1)**
-- **[Configure DNS and DHCP on Windows Server 2022]()**
+- **[Configure DNS and DHCP on Windows Server 2022](https://github.com/Blake-McDonald/DNSDHCPWin22/blob/main/README.md)**
 
 </details>
 
