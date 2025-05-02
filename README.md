@@ -7,14 +7,13 @@ I'm dedicated to cybersecurity and tackling complex challenges through hands-on 
 
 In the following sections, I will present a selection of IT Operations–focused projects, categorized into guided and independent work. The objective is to demonstrate the progression of my skills, highlighting how the foundational knowledge gained through structured tutorials enabled the development of more comprehensive and self-directed projects within sandbox environments.
 
-## 💻 Guided IT Ops Projects
+<details>
+<summary><strong>Windows Server 2022</strong></summary>
 
-<h2> Windows Server 2022</h2>
+- **[Creating a Windows Answer File for Automated Installation and Deployment on Windows Server 2022](https://github.com/Blake-McDonald/Proj1)**
+- **[Configure DNS and DHCP on Windows Server 2022]()**
 
-- **[Creating a Windows Answer File for Automated Installation and Deployment on Windows Server 2022](https://github.com/Blake-McDonald/Proj1)**
-- **[Configure DNS and DHCP on Windows Server 2022]()**
-
-
+</details>
 
 
 ## 👨🏻‍💻 Independant IT Ops Projects
