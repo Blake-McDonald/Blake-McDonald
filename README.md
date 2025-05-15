@@ -19,6 +19,7 @@ In the following sections, I will present a selection of IT Operations–focused
 
 ## 👨🏻‍💻 Independant IT Ops Projects
 
+BUILDING A SOC FROM SCRATCH 
 
 
 ## 🛡️ Cybersecurity Projects: Context
