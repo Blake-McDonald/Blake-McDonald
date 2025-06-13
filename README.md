@@ -17,9 +17,9 @@ In the following sections, I will present a selection of IT Operations–focused
 </details>
 
 
-## 👨🏻‍💻 Independant IT Ops Projects
+## 👨🏻‍💻 Independant IT/Cybersec Projects
 
-BUILDING A SOC FROM SCRATCH 
+- **[HomeLab Configuration and Outlines of HomeLab]()**
 
 
 ## 🛡️ Cybersecurity Projects: Context
