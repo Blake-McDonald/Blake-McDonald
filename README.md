@@ -16,10 +16,6 @@ In the following sections, I will present a selection of IT Operations–focused
 
 </details>
 
-## 🤖 Custom AI Prompts ( Primarily for note taking & study guides) 
-
-- **[ChatGPT Study Guide Prompts]()**
-- 
 ## 👨🏻‍💻 Independant IT/Cybersec Projects
 
 - **[HomeLab Configuration and Outlines of HomeLab]()**
@@ -40,6 +36,12 @@ Following the same structure as the IT Operations section, this area will showca
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
 <hr/>
+
+
+## 🤖 Custom AI Prompts ( Primarily for note taking & study guides) 
+
+- **[ChatGPT Study Guide Prompts]()**
+
 
 ## 🤳 Connect With Me On Linkedin
 [<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
