@@ -40,7 +40,7 @@ Following the same structure as the IT Operations section, this area will showca
 
 ## 🤖 Custom AI Prompts ( Primarily for note taking & study guides) 
 
-- **[Custom ChatGPT Study Guide Prompts]()**
+- **[Custom ChatGPT Study Guide Prompts](https://github.com/Blake-McDonald/ChatGpt-Study-Prompts)**
 
 
 ## 🤳 Connect With Me On Linkedin
