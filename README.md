@@ -16,7 +16,10 @@ In the following sections, I will present a selection of IT Operations–focused
 
 </details>
 
+## 🤖 Custom AI Prompts ( Primarily for note taking & study guides) 
 
+- **[ChatGPT Study Guide Prompts]()**
+- 
 ## 👨🏻‍💻 Independant IT/Cybersec Projects
 
 - **[HomeLab Configuration and Outlines of HomeLab]()**
