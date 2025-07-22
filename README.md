@@ -31,7 +31,16 @@ Following the same structure as the IT Operations section, this area will showca
 - **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 - **[Authenticated Vs. Unauthenticated Scanning (Windows Virtual Machine)]()**
-
+- **[Authenticated Vs. Unauthenticated Scanning (Ubuntu Linux Virtual Machine)]()**
+- **[DISA STIG Scan Templates]()**
+- **[Agent Based Monitoring (Windows Host)]()**
+- **[Agent Based Monitoring (Ubuntu Linux Host)]()**
+- **[Vulnerability Recasting and Exceptions]()**
+- **[Discovery Scans]()**
+- **[Manual Vulnerability Remediation (Windows Host)]()**
+- **[Manual Vulnerability Remediation (Ubuntu Linux Host)]()**
+- **[Programmatic Remediation in Windows]()**
+- **[Programmatic Remediation in Ubuntu Linux]()**
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
