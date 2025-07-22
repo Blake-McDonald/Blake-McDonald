@@ -30,7 +30,7 @@ Following the same structure as the IT Operations section, this area will showca
 
 - **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
-- **[WINDOWS: Authenticated Vs. Unauthenticated Scanning)]()**
+- **[Authenticated Vs. Unauthenticated Scanning (Windows Virtual Machine)]()**
 
 ## 🚨 Threat Hunting and Security Operations
 
