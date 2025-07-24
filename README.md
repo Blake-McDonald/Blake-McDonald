@@ -47,7 +47,7 @@ Progression from guided labs to production-style, self-directed security work—
 
 - **[Authenticated Vs. Unauthenticated Scanning (Windows Virtual Machine)](https://github.com/Blake-McDonald/Tenable-Auth-vs-Unauth)**
 - **[Authenticated Vs. Unauthenticated Scanning (Ubuntu Linux Virtual Machine)](https://github.com/Blake-McDonald/Auth-Vs-Unauth-Linux/blob/main/README.md)**
-- **[DISA STIG Scan Templates]()**
+- **[DISA STIG Scan Templates](https://github.com/Blake-McDonald/DISA-STIG-Scan-Templates/blob/main/README.md)**
 - **[Agent Based Monitoring (Windows Host)]()**
 - **[Agent Based Monitoring (Ubuntu Linux Host)]()**
 - **[Vulnerability Recasting and Exceptions]()**
