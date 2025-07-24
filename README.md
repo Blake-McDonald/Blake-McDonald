@@ -7,6 +7,7 @@ I'm dedicated to cybersecurity and tackling complex challenges through hands on 
 
 In the following sections, I will present a selection of IT Operations–focused projects, categorized into guided and independent work. The objective is to demonstrate the progression of my skills, highlighting how the foundational knowledge gained through structured tutorials enabled the development of more comprehensive and self-directed projects within sandbox environments.
 
+
 <details open>
 <summary><strong>Windows Server 2022</strong></summary>
 
@@ -57,6 +58,15 @@ Progression from guided labs to production-style, self-directed security work—
 - **[Programmatic Remediation in Windows]()**
 - **[Programmatic Remediation in Ubuntu Linux]()**
   </details>
+
+<details open>
+<summary><strong> Remediating Malicious Scripts ></summary>
+
+- **[SERIES: Remediating The Most Common Malicious Powershell Scripts]()**
+- **[SERIES: Remediating The Most Common Malicious BASH Scripts]()**
+</details>
+
+
   <hr>
   
 ## 🚨 Threat Hunting and Security Operations
@@ -66,7 +76,24 @@ Progression from guided labs to production-style, self-directed security work—
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
     
  </details>
-<hr/>
+
+<details open>
+<summary><strong>Scripting ( Powershell & Bash )></summary>
+
+- **[SERIES: 100 Most Common Malicious Powershell Scripts & Their Functions ]()**
+- **[SERIES: 100 Most Common Malicious BASH Commands & Their Functions ]()**
+- **[Most Common BASH IOCs]()**
+- **[Most Common Powershell IOCs]()**
+</details>
+
+<details open>
+<summary><strong> KQL </strong></summary>
+
+- **[Creating a Parser with KQL](https://github.com/Blake-McDonald/Proj1)**
+
+</details>
+
+</hr>
 
 
 ## 🤖 Custom AI Prompts ( Primarily for note taking & study guides) 
