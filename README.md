@@ -1,9 +1,9 @@
 
 # <a href="https://www.linkedin.com/in/blake-mcdonald-65899a241/">Blake McDonald</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm dedicated to cybersecurity and tackling complex challenges through hands-on projects. My work in areas such as vulnerability management and threat detection allows me to explore the evolving landscape of security in depth. I invite you to review my projects and see how I've contributed to enhancing security operations and processes.
+I'm dedicated to cybersecurity and tackling complex challenges through hands on projects. My work in areas such as vulnerability management and threat detection allows me to explore the evolving landscape of security in depth. I invite you to review my projects and see how I've contributed to enhancing security operations and processes.
 
-## 🌐 IT Ops Projects: Context
+## 🌐 IT Ops Project & Homelab Configurations:
 
 In the following sections, I will present a selection of IT Operations–focused projects, categorized into guided and independent work. The objective is to demonstrate the progression of my skills, highlighting how the foundational knowledge gained through structured tutorials enabled the development of more comprehensive and self-directed projects within sandbox environments.
 
@@ -13,23 +13,37 @@ In the following sections, I will present a selection of IT Operations–focused
 - **[Creating a Windows Answer File for Automated Installation and Deployment on Windows Server 2022](https://github.com/Blake-McDonald/Proj1)**
 - **[Configure DNS and DHCP on Windows Server 2022](https://github.com/Blake-McDonald/DNSDHCPWin22/blob/main/README.md)**
 - **[Implement File and Storage Services Management on Windows Server 2022]()**
-
 </details>
 
-## 👨🏻‍💻 Independant IT/Cybersec Projects
+<details>
+<summary><strong>Homelab Configurations</strong></summary>
+  
+- **[Homelab: Server Parts List and Configuration]()**
+- **[Homelab: Managed Switch Configuration]()**
+- **[Homelab: NGFW Configuration]()**
+- **[Homelab: Air-Gapped Server Architecture & Process Workflow]()**
+- **[Homelab: Securing my Homelab]()**
+  
+</details>
 
-- **[HomeLab Configuration and Outlines of HomeLab]()**
 
 
 ## 🛡️ Cybersecurity Projects: Context
 
-Following the same structure as the IT Operations section, this area will showcase guided projects that progressively lead into independent work, illustrating my competency and understanding across various domains within the cybersecurity landscape. These projects involve tools such as Microsoft Sentinel, Tenable, Microsoft Defender for Endpoint, and Microsoft Azure (Entra ID). Over time, this section will expand to include more team-specific organization, with a focus on Cybersecurity Operations projects from the Red, Blue, and Purple team perspectives.
+Progression from guided labs to production-style, self-directed security work—Sentinel, MDE, Tenable, Azure/Entra—tagged Blue/Red/Purple, written like a story of what I tried, what broke, what I fixed accompanied with videos for most projects.
 
 
 ## ⚠️ Vulnerability Management Projects
-
+<details>
+<summary><strong> Larger Projects </strong></summary>
+  
 - **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+  </details>
+  
+  <details>
+<summary><strong> Smaller Projects & Tutorials </strong></summary>
+
 - **[Authenticated Vs. Unauthenticated Scanning (Windows Virtual Machine)](https://github.com/Blake-McDonald/Tenable-Auth-vs-Unauth)**
 - **[Authenticated Vs. Unauthenticated Scanning (Ubuntu Linux Virtual Machine)](https://github.com/Blake-McDonald/Auth-Vs-Unauth-Linux/blob/main/README.md)**
 - **[DISA STIG Scan Templates]()**
@@ -41,6 +55,9 @@ Following the same structure as the IT Operations section, this area will showca
 - **[Manual Vulnerability Remediation (Ubuntu Linux Host)]()**
 - **[Programmatic Remediation in Windows]()**
 - **[Programmatic Remediation in Ubuntu Linux]()**
+  </details>
+  <hr>
+  
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
