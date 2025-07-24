@@ -50,7 +50,8 @@ Progression from guided labs to production-style, self-directed security work—
 - **[Agent Based Monitoring (Windows Host)]()**
 - **[Agent Based Monitoring (Ubuntu Linux Host)]()**
 - **[Vulnerability Recasting and Exceptions]()**
-- **[Discovery Scans]()**
+- **[Discovery Scans On an Entire Subnet]()**
+- **[Vulnerability Recasting & Exceptions]()**
 - **[Manual Vulnerability Remediation (Windows Host)]()**
 - **[Manual Vulnerability Remediation (Ubuntu Linux Host)]()**
 - **[Programmatic Remediation in Windows]()**
