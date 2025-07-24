@@ -7,7 +7,7 @@ I'm dedicated to cybersecurity and tackling complex challenges through hands on 
 
 In the following sections, I will present a selection of IT Operations–focused projects, categorized into guided and independent work. The objective is to demonstrate the progression of my skills, highlighting how the foundational knowledge gained through structured tutorials enabled the development of more comprehensive and self-directed projects within sandbox environments.
 
-<details>
+<details open>
 <summary><strong>Windows Server 2022</strong></summary>
 
 - **[Creating a Windows Answer File for Automated Installation and Deployment on Windows Server 2022](https://github.com/Blake-McDonald/Proj1)**
@@ -15,7 +15,7 @@ In the following sections, I will present a selection of IT Operations–focused
 - **[Implement File and Storage Services Management on Windows Server 2022]()**
 </details>
 
-<details>
+<details open>
 <summary><strong>Homelab Configurations</strong></summary>
   
 - **[Homelab: Server Parts List and Configuration]()**
@@ -34,14 +34,14 @@ Progression from guided labs to production-style, self-directed security work—
 
 
 ## ⚠️ Vulnerability Management Projects
-<details>
+<details open>
 <summary><strong> Larger Projects </strong></summary>
   
 - **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
   </details>
   
-  <details>
+  <details open>
 <summary><strong> Smaller Projects & Tutorials </strong></summary>
 
 - **[Authenticated Vs. Unauthenticated Scanning (Windows Virtual Machine)](https://github.com/Blake-McDonald/Tenable-Auth-vs-Unauth)**
@@ -59,15 +59,24 @@ Progression from guided labs to production-style, self-directed security work—
   <hr>
   
 ## 🚨 Threat Hunting and Security Operations
-
+  <details open>
+<summary><strong> Threat Hunting Scenario </strong></summary>
+    
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
-
+    
+ </details>
 <hr/>
 
 
 ## 🤖 Custom AI Prompts ( Primarily for note taking & study guides) 
 
-- **[Custom ChatGPT Study Guide Prompts](https://github.com/Blake-McDonald/ChatGpt-Study-Prompts)**
+  <details>
+<summary><strong> Study Guides & Question Generation </strong></summary>
+    
+- **[SC-200 Study Guide MCQ Prompts](https://github.com/Blake-McDonald/ChatGpt-Study-Prompts)**
+
+   </details>
+<hr/>
 
 
 ## 🤳 Connect With Me On Linkedin
