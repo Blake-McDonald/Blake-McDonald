@@ -71,12 +71,28 @@ Progression from guided labs to production-style, self-directed security work—
   
 ## 🚨 Threat Hunting and Security Operations
   <details open>
-<summary><strong> Threat Hunting Scenario </strong></summary>
+<summary><strong> Threat Hunting Scenarios </strong></summary>
     
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Scenario 1: Devices Exposed to the Internet]()**
+- **[Scenario 2: Sudden Network Slowdowns]()**
+- **[Scenario 3: Suspected Data Exfiltration Employee]()**
+- **[Scenario 4: New Zero-Day Announced on News]()**
     
  </details>
 
+  <details open>
+<summary><strong> Incident Response Scenarios </strong></summary>
+    
+- **[Scenario 1: Virtual Machine Brute Force Detection]()**
+- **[Scenario 2: PowerShell Suspicious Web Request]()**
+- **[Scenario 3: Potential Impossible Travel]()**
+- **[Linux IR: Escalation of Privileges and Data Exfil.]()**
+- **[Simulated Script Execution Attack & IR]()**
+- **[Detecting WannaCry Ransomware with YARA & Tenable]()**
+
+ </details>
+ 
 <details open>
 <summary><strong>Scripting ( Powershell & Bash )></summary>
 
@@ -87,10 +103,19 @@ Progression from guided labs to production-style, self-directed security work—
 </details>
 
 <details open>
-<summary><strong> KQL </strong></summary>
+<summary><strong> KQL & Logging </strong></summary>
 
 - **[Creating a Parser with KQL](https://github.com/Blake-McDonald/Proj1)**
-
+- **[Understanding KQL with Azure Audit and SignIn Logs](https://github.com/Blake-McDonald/Proj1)**
+- **[Azure Activity Logs](https://github.com/Blake-McDonald/Proj1)**
+- **[Inspecting NSG Logs](https://github.com/Blake-McDonald/Proj1)**
+- **[Microsoft Defender for Endpoint Overview and Logs](https://github.com/Blake-McDonald/Proj1)**
+- **[Resource Creation / Deletions & Logon Failures Against Compute Resources](https://github.com/Blake-McDonald/Proj1)**
+- **[Malicious Traffic Entering the Network](https://github.com/Blake-McDonald/Proj1)**
+- **[Onboarding a VM to MDE](https://github.com/Blake-McDonald/Proj1)**
+- **[VM Isolation and Investigation](https://github.com/Blake-McDonald/Proj1)**
+- **[Performing Random Activities to Create Logs](https://github.com/Blake-McDonald/Proj1)**
+- **[Remote Code Execution Detection](https://github.com/Blake-McDonald/Proj1)**
 </details>
 
 </hr>
