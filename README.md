@@ -8,13 +8,25 @@ I'm dedicated to cybersecurity and tackling complex challenges through hands on 
 In the following sections, I will present a selection of IT Operations–focused projects, categorized into guided and independent work. The objective is to demonstrate the progression of my skills, highlighting how the foundational knowledge gained through structured tutorials enabled the development of more comprehensive and self-directed projects within sandbox environments.
 
 
-<details open>
+<details>
 <summary><strong>Windows Server 2022</strong></summary>
 
 - **[Creating a Windows Answer File for Automated Installation and Deployment on Windows Server 2022](https://github.com/Blake-McDonald/Proj1)**
 - **[Configure DNS and DHCP on Windows Server 2022](https://github.com/Blake-McDonald/DNSDHCPWin22/blob/main/README.md)**
 - **[Implement File and Storage Services Management on Windows Server 2022]()**
 </details>
+
+
+<details>
+<summary><strong>Palo Alto Firewall</strong></summary>
+
+- **[Initialization and Licensing]()**
+- **[Updating the Palo Alto Firewall]()**
+- **[Configure Security Zones and Layer 3 Interfaces]()**
+- **[App-ID and Other Objects]()**
+- **[Shape Traffic Using Security Policy Rules]()**
+</details>
+
 
 <details open>
 <summary><strong>Homelab Configurations</strong></summary>
