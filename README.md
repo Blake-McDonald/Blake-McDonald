@@ -62,7 +62,6 @@ Progression from guided labs to production-style, self-directed security work—
 - **[DISA STIG Scan Templates](https://github.com/Blake-McDonald/DISA-STIG-Scan-Templates/blob/main/README.md)**
 - **[Agent Based Monitoring (Windows Host)]()**
 - **[Agent Based Monitoring (Ubuntu Linux Host)]()**
-- **[Vulnerability Recasting and Exceptions]()**
 - **[Discovery Scans On an Entire Subnet]()**
 - **[Vulnerability Recasting & Exceptions]()**
 - **[Manual Vulnerability Remediation (Windows Host)]()**
