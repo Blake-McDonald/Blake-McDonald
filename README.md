@@ -19,7 +19,7 @@ In the following sections, I will present a selection of IT Operations–focused
 <details open>
 <summary><strong>Homelab Configurations</strong></summary>
   
-- **[Homelab: Server Parts List and Configuration]()**
+- **[Homelab: Server Parts List and Configuration](https://github.com/Blake-McDonald/Homelab-Server-Parts-List-and-Configuration/blob/main/README.md)**
 - **[Homelab: Managed Switch Configuration]()**
 - **[Homelab: NGFW Configuration]()**
 - **[Homelab: Air-Gapped Server Architecture & Process Workflow]()**
