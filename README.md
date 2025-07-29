@@ -66,7 +66,7 @@ Progression from guided labs to production-style, self-directed security work—
 - **[Agent Based Monitoring (Ubuntu Linux Host)]()**
 - **[Discovery Scans On an Entire Subnet](https://github.com/Blake-McDonald/Discovery-Scans-On-an-Entire-Subnet/blob/main/README.md)**
 - **[Manual Vulnerability Remediation (Windows Host)](https://github.com/Blake-McDonald/Manual-Vulnerability-Remediation-Windows-Host-)**
-- **[Manual Vulnerability Remediation (Ubuntu Linux Host)]()**
+- **[Manual Vulnerability Remediation (Ubuntu Linux Host)](https://github.com/Blake-McDonald/Agent-Based-Monitoring-Ubuntu-Linux-Host-)**
 - **[Programmatic Remediation in Windows]()**
 - **[Programmatic Remediation in Ubuntu Linux]()**
   </details>
