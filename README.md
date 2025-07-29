@@ -3,6 +3,8 @@
 
 I'm dedicated to cybersecurity and tackling complex challenges through hands on projects. My work in areas such as vulnerability management and threat detection allows me to explore the evolving landscape of security in depth. I invite you to review my projects and see how I've contributed to enhancing security operations and processes.
 
+<i>  **Special Note: All of the projects listed below also have an accompanying video** <i>
+
 ## 🌐 IT Ops Project & Homelab Configurations:
 
 In the following sections, I will present a selection of IT Operations–focused projects, categorized into guided and independent work. The objective is to demonstrate the progression of my skills, highlighting how the foundational knowledge gained through structured tutorials enabled the development of more comprehensive and self-directed projects within sandbox environments.
