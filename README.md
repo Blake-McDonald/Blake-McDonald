@@ -52,7 +52,7 @@ Progression from guided labs to production-style, self-directed security work—
 <details open>
 <summary><strong> Larger Projects </strong></summary>
   
-- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
+- **[Implementing a Full Vulnerability Managment Program](https://github.com/joshcybertest/vulnerability-management-program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
   </details>
   
