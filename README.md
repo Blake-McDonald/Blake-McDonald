@@ -86,6 +86,7 @@ Progression from guided labs to production-style, self-directed security work—
 <summary><strong> Threat Hunting Scenarios </strong></summary>
     
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Using BGP to De-anonymize Tor Nodes in Air Gapped systems)]()**
 - **[Scenario 1: Devices Exposed to the Internet]()**
 - **[Scenario 2: Sudden Network Slowdowns]()**
 - **[Scenario 3: Suspected Data Exfiltration Employee]()**
