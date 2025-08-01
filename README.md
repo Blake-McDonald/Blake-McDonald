@@ -1,7 +1,7 @@
 
 # <a href="https://www.linkedin.com/in/blake-mcdonald-65899a241/">Blake McDonald</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm dedicated to cybersecurity and tackling complex challenges through hands on projects. My work in areas such as vulnerability management and threat detection allows me to explore the evolving landscape of security in depth. I invite you to review my projects and see how I've contributed to enhancing security operations and processes.
+I'm dedicated to cybersecurity and tackling complex challenges through hands on projects. My work in areas such as vulnerability management and threat detection allows me to explore the evolving landscape of security in depth. I invite you to review my over 50 projects and see how I've contributed to enhancing my understanding and application security operations and processes.
 
 <i>  **Special Note: All of the projects listed below also have an accompanying video** <i>
 
