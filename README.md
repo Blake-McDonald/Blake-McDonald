@@ -34,6 +34,7 @@ In the following sections, I will present a selection of IT Operations–focused
 
 - **[Hardening an Enterprise Copier with Secure Printing]()**
 - **[Deploy Server-Based Secure-Print Management (PaperCut)]()**
+-  **[Document Enterprise MFP Features & Troubleshooting Best Practices]()**
 - **[Create Custom PaperCut Print Policies with JavaScript]()**
 - **[Device Configuration Migration]()**
 - **[Convert Address Books Across Device Brands]()**
