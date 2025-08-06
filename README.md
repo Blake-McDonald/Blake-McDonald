@@ -29,6 +29,23 @@ In the following sections, I will present a selection of IT Operations–focused
 - **[Shape Traffic Using Security Policy Rules]()**
 </details>
 
+<details>
+<summary><strong>Embedded Device Management & Security</strong></summary>
+
+- **[Hardening an Enterprise Copier with Secure Printing]()**
+- **[Deploy Server-Based Secure-Print Management (PaperCut)]()**
+- **[Create Custom PaperCut Print Policies with JavaScript]()**
+- **[Device Configuration Migration]()**
+- **[Convert Address Books Across Device Brands]()**
+</details>
+
+<details>
+<summary><strong> Leveraging RPA with Microsoft Power Automate</strong></summary>
+
+- **[Build a Simple Power Automate Flow]()**
+- **[Automate Desktop Actions with Power Automate Desktop]()**
+- **[	Build a Power Automate Applet to Complete Repetitive Tasks]()**
+</details>
 
 <details open>
 <summary><strong>Homelab Configurations</strong></summary>
