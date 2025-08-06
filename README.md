@@ -119,7 +119,7 @@ Progression from guided labs to production-style, self-directed security work—
 <summary><strong> KQL & Logging </strong></summary>
 
 - **[Creating a Parser with KQL](https://github.com/Blake-McDonald/Proj1)**
-- **[Understanding KQL with Azure Audit and SignIn Logs](https://github.com/Blake-McDonald/Proj1)**
+- **[Understanding KQL with Azure Audit and KQL](https://github.com/Blake-McDonald/Proj1)**
 - **[Azure Activity Logs](https://github.com/Blake-McDonald/Proj1)**
 - **[Inspecting NSG Logs](https://github.com/Blake-McDonald/Proj1)**
 - **[Microsoft Defender for Endpoint Overview and Logs](https://github.com/Blake-McDonald/Proj1)**
