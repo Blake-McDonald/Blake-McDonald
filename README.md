@@ -141,7 +141,7 @@ Progression from guided labs to production-style, self-directed security work—
 - **[Understanding Azure Activity Logs (KQL Query Breakdown)](https://github.com/Blake-McDonald/Azure-Activity-Logs)**
 - **[Inspecting NSG Logs & Forming a Union Between Two Tables](https://github.com/Blake-McDonald/Inspecting-NSG-Logs)**
 - **[Microsoft Defender for Endpoint Overview and Logs](https://github.com/Blake-McDonald/Microsoft-Defender-for-Endpoint-Overview-and-Logs)**
-- **[Navigating  Advanced Hunting within Defender for Endpoint]https://github.com/Blake-McDonald/Navigating-Advanced-Hunting-within-Defender-for-Endpoint)**
+- **[Navigating  Advanced Hunting within Defender for Endpoint](https://github.com/Blake-McDonald/Navigating-Advanced-Hunting-within-Defender-for-Endpoint)**
 - **[Resource Creation / Deletions & Logon Failures Against Compute Resources](https://github.com/Blake-McDonald/Proj1)**
 - **[Malicious Traffic Entering the Network](https://github.com/Blake-McDonald/Proj1)**
 - **[Onboarding a VM to MDE](https://github.com/Blake-McDonald/Proj1)**
