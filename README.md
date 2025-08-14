@@ -15,11 +15,22 @@ In the following sections, I will present a selection of IT Operations–focused
 
 
 <details>
-<summary><strong>Windows Server 2022</strong></summary>
+<summary><strong>Windows Server & General Server Operations</strong></summary>
 
 - **[Creating a Windows Answer File for Automated Installation and Deployment on Windows Server 2022](https://github.com/Blake-McDonald/Proj1)**
 - **[Configure DNS and DHCP on Windows Server 2022](https://github.com/Blake-McDonald/DNSDHCPWin22/blob/main/README.md)**
 - **[Implement File and Storage Services Management on Windows Server 2022]()**
+- **[Printer Monitoring Architecture SNMP vs Syslog]()**
+
+</details>
+<details>
+<summary><strong> Self Authored Documentation used in Live Environments</strong></summary>
+
+<i>  **This is a list comprising real documeents authored by me for processes that are used in live environments** <i>
+
+
+- **[Root Cause Troubleshooting Checklist]()**
+- **[Installation Process Transfer]()**
 </details>
 
 
